@@ -15,9 +15,7 @@ $Team4 = 0;
 //variables for database connection
 
 $hostname = 'localhost';
-	
 $username = 'root';
-	
 $password = 'password';
 	
 //if ADD button is pressed
